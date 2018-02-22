@@ -1,0 +1,42 @@
+---
+title: "Example_template_poc"
+author: "KGruba"
+date: "22 lutego 2018"
+output:
+  rmdformats::readthedown:
+    self_contained: true
+    thumbnails: true
+    number_sections: true
+    lightbox: true
+    gallery: false
+    highlight: tango
+---
+
+## Quarterly Results {.tabset}
+
+### By Product
+
+(tab content) woot
+
+### By Region
+
+(tab content) loool
+
+ 
+
+## Quarterly Results {.tabset .tabset-fade .tabset-pills}
+
+### By Product
+
+(tab content)xyz
+
+### By Region
+
+(tab content)cc
+
+
+## lol 
+
+
+
+
